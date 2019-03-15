@@ -1,0 +1,122 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    color: #66BFBF;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    line-height: 2;
+    font-size: 5.625em;
+    font-weight: bolder;
+}
+
+h2 {
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bolder;
+}
+
+h3 {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.2rem;
+    font-weight: bolder;
+}
+
+hr {
+    border: 10px;
+    border-style: none none dotted;
+    color: rgb(100, 100, 100);
+    width: 5%;
+    margin: 80px 640px;
+}
+
+a {
+    color: #11999E;
+}
+
+.montana {
+    position: relative;
+    bottom: 40px;
+}
+
+.top-container {
+    background-color: #E4F9F5;
+    padding-top: 5px;
+    margin-bottom: 50px;
+    position: relative;
+    height: 665px;
+}
+
+.btn {
+    border-radius: 10px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    background: #66bfbf;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    position: relative;
+    top: 30px;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 40px;
+    margin-top: 100px;
+}
+
+.footer-p {
+    color: white;
+    font-size: 12px;
+    padding-top: 30px;
+}
+
+.picYu {
+    border-radius: 50%;
+    height: 250px;
+    padding-top: 20px
+}
+
+.videogames {
+    height: 25%;
+    border-radius: 10%;
+    float: left;
+    margin-right: 30px;
+}
+
+.footer-link {
+    text-decoration: none;
+    margin: 10px 20px;
+    font-weight: bolder;
+}
+
+.videos {
+    height: 150px;
+    border-radius: 10%;
+    float: right;
+    margin-left: 20px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
